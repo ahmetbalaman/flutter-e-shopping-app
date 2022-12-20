@@ -24,7 +24,7 @@ class IntroductionPage extends StatelessWidget {
         footer: const Text("Alt başlk"),
       ),
       PageViewModel(
-        image: Image.asset("assets/images/laptop2.webp"),
+        image: Image.asset("assets/images/laptop2.png"),
         title: "üstteki fotoğraflar ne alaka?",
         body: "dediğinizi duyar gibiyim inanın bana başka fotoğraf",
         footer: const Text("bulamadım."),
